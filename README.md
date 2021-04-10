@@ -7,7 +7,7 @@ The application MUST be downloaded for it to run.
 ## To run the application you first need to download the folder as a ZIP.
 1. Click on the Down arrow ' ⌄ ' on the green button named 'code' on the [Main Page](https://github.com/cb1270/MentalHealthApplication), Click 'Download Zip'
 2. Once the Zip is downloaded, click extract all and save the folder to your chosen location.
-3. Once the folder is saved, open the folder named 'MentalHealthApp_CharlotteBudge' 
+3. Once the folder is saved, open the folder and within the extracted folder open the folder named 'MentalHealthApp_CharlotteBudge' 
 4. Double click 'Mental Health Application-Charlotte Budge.exe' to run the application. 
 
 
