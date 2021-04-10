@@ -2,7 +2,8 @@
 
 An application created in unity using `C#` designed to help people with mental health issues.
 
-[I'm an inline-style link](https://github.com/cb1270/MentalHealthApplication/tree/main/MentalHealthApp_CharlotteBudge)
+
+Click here to go straight to the location of the application >> [Mental Health Application Folder](https://github.com/cb1270/MentalHealthApplication/tree/main/MentalHealthApp_CharlotteBudge) <<<
 
 ```cs
 using System.Collections;
