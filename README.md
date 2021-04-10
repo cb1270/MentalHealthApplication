@@ -15,7 +15,7 @@ Click here to go straight to the location of the application on git to view the 
 
 ### Snippet of the code used.
 
-Scripts used to create the application clilck 'Scripts' to go to the folder >>> [Scripts](https://github.com/cb1270/MentalHealthApplication/tree/main/Assets/Scripts) <<<
+Scripts used to create the application click 'Scripts' to go to the folder to view the files >>> [Scripts](https://github.com/cb1270/MentalHealthApplication/tree/main/Assets/Scripts) <<<
 
 
 ```cs
